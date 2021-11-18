@@ -1,2 +1,2 @@
-# KNN
-KNN on military scoring dataset
+# K-Mean Clustering
+K-Mean Clustering on military scoring dataset
